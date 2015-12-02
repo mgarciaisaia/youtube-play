@@ -1,5 +1,13 @@
 {
-  "name" : "youtube-keyboard",
-  "version" : "0.1.0",
-  "main" : "index.js"
+  "name": "youtube-play",
+  "version": "0.1.0",
+  "main": "index.js",
+  "repository": "https://github.com/mgarciaisaia/youtube-play",
+  "description": "electron wrapper to YouTube so you can use your media keys to play/pause videos",
+  "author": "Matias Garcia Isaia",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mgarciaisaia/youtube-play/issues"
+  },
+  "homepage": "https://github.com/mgarciaisaia/youtube-play"
 }
